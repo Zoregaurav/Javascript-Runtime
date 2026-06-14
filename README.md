@@ -115,3 +115,7 @@ This is a focused educational runtime, not a full ECMAScript implementation. It 
 - Support template literals and regular expressions
 - Improve diagnostics with source snippets
 - Add bytecode compilation as a second execution backend
+
+## 📸 Screenshots
+
+
