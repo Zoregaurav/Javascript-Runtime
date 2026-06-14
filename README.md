@@ -118,6 +118,6 @@ This is a focused educational runtime, not a full ECMAScript implementation. It 
 
 ## 📸 Screenshots
 
-![Homepage](Screenshot 2026-06-15 000625.png)
+![Homepage](https://github.com/Zoregaurav/Javascript-Runtime/blob/f3ea036f04838254f329fc3022ae75f53698cc9c/Screenshot%202026-06-15%20000625.png)
 ![Homepage]()
 
