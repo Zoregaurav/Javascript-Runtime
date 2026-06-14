@@ -119,5 +119,5 @@ This is a focused educational runtime, not a full ECMAScript implementation. It 
 ## 📸 Screenshots
 
 ![Homepage](https://github.com/Zoregaurav/Javascript-Runtime/blob/f3ea036f04838254f329fc3022ae75f53698cc9c/Screenshot%202026-06-15%20000625.png)
-![Homepage]()
-
+![Homepage](https://github.com/Zoregaurav/Javascript-Runtime/blob/5f184f5a1e60bb06cb8921e8b6940c8e64035fdc/Screenshot%202026-06-15%20001008.png)
+![Homepage](https://github.com/Zoregaurav/Javascript-Runtime/blob/5f184f5a1e60bb06cb8921e8b6940c8e64035fdc/Screenshot%202026-06-15%20001040.png)
