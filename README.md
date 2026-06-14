@@ -118,4 +118,6 @@ This is a focused educational runtime, not a full ECMAScript implementation. It 
 
 ## 📸 Screenshots
 
+![Homepage](Screenshot 2026-06-15 000625.png)
+![Homepage]()
 
